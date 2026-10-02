@@ -1,41 +1,100 @@
 # L-1A Intracompany Transferee Research
 
-## Overview
+A structured legal research portfolio covering the L-1A Intracompany Transferee classification, eligibility requirements, evidence analysis, new-office cases, and managerial/executive capacity.
 
-This section provides a structured research framework for understanding the L-1A nonimmigrant classification for qualifying executives and managers.
+---
 
 ## Research Topics
 
-- L-1A eligibility
-- Qualifying organizations
-- Qualifying relationship between entities
-- Executive capacity
-- Managerial capacity
-- New office requirements
-- Evidence and documentation
-- Business structure and operations
-- Extension considerations
-- L-1A to permanent residence pathways
+### 1. Eligibility Framework
 
-## Evidence Framework
+Overview of the principal eligibility requirements for an L-1A case.
 
-Potential evidence categories may include:
+➡️ [View Eligibility Framework](eligibility.md)
 
-- Corporate documents
-- Ownership records
-- Organizational charts
-- Financial records
-- Tax documentation
-- Employment records
-- Business plans
-- Evidence of business operations
-- Executive or managerial duties
-- Supporting documentation
+### 2. Research Sources
 
-## Research Sources
+Primary legal and government sources used for L-1A research.
 
-Research should prioritize official U.S. government sources and applicable statutes, regulations, and agency guidance.
+➡️ [View Research Sources](sources.md)
+
+### 3. Evidence Checklist
+
+A structured checklist for organizing documentary evidence.
+
+➡️ [View Evidence Checklist](evidence-checklist.md)
+
+### 4. New Office Research
+
+Research framework addressing additional considerations applicable to L-1A new-office cases.
+
+➡️ [View New Office Research](new-office.md)
+
+### 5. Managerial vs. Executive Capacity
+
+Comparison of managerial and executive capacity and the evidence relevant to each.
+
+➡️ [View Managerial vs. Executive Analysis](managerial-vs-executive.md)
+
+### 6. Case Analysis Framework
+
+A structured methodology for analyzing an L-1A case from facts and evidence through legal requirements.
+
+➡️ [View Case Analysis Framework](case-analysis-framework.md)
+
+### 7. Hypothetical Case Study
+
+A hypothetical technology-business scenario demonstrating how L-1A requirements can be organized into a practical case analysis.
+
+➡️ [View Hypothetical Case Study](hypothetical-case-study.md)
+
+---
+
+## Research Methodology
+
+The L-1A research process follows a structured approach:
+
+1. Identify the legal requirement
+2. Identify the relevant facts
+3. Determine the evidence required
+4. Identify evidence gaps
+5. Analyze the beneficiary's role
+6. Examine the organizational structure
+7. Evaluate the proposed U.S. position
+8. Connect each requirement with supporting evidence
+
+---
+
+## Primary Authorities
+
+Research should prioritize:
+
+- Immigration and Nationality Act
+- Code of Federal Regulations
+- USCIS Policy Manual
+- USCIS official resources
+- Relevant administrative decisions
+
+---
+
+## Professional Skills Demonstrated
+
+This research section demonstrates skills in:
+
+- Legal research
+- Immigration research
+- Case analysis
+- Evidence organization
+- Legal writing
+- Issue spotting
+- Research methodology
+- Document review
+- Analytical writing
+
+---
 
 ## Disclaimer
 
-This repository is for educational and research purposes only. It does not constitute legal advice and does not create an attorney-client relationship.
+This repository is intended for educational and professional research purposes only.
+
+It does not constitute legal advice and does not create an attorney-client relationship. Current statutes, regulations, USCIS guidance, and applicable decisions should be reviewed before relying on this material.
